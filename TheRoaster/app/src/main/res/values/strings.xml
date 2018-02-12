@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheRoaster</string>
+    <string name="Eye_Color_prompt">Eye-Color</string>
+    <string-array name="ec">
+        <item>Choose Color</item>
+        <item>Amber</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Hazel</item>
+    </string-array>
+</resources>
